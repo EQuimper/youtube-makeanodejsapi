@@ -10,7 +10,7 @@ I create this tutorial for helping people to make their own rest api and maybe u
 
 This rest api gonna be for a Medium like website. This is a simple blog place where people can follow author and create a post. People can like the post and get notification when a user they follow create a new one.
 
-- Authentication
+- Authentication local + jwt
 - User can create a post
 - User can delete is own post and update it
 - User can follow an other one
@@ -21,3 +21,19 @@ This rest api gonna be for a Medium like website. This is a simple blog place wh
 ## Tech use
 
 I use the latest feature of javascript. ES6 + ES7, we compile with the help of babel and webpack v2.
+
+---
+
+### Part 1, Setup the tools
+
+#### Video
+
+[Link](https://youtu.be/UL66bwInJHY)
+
+#### To add
+
+- editorconfig
+- express
+- eslint
+- babel
+- webpack 2
