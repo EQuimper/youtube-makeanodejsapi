@@ -37,3 +37,15 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - eslint
 - babel
 - webpack 2
+
+---
+
+### Part 2, Setup of the middlewares and mongodb
+
+#### Video
+
+[Link](https://youtu.be/PuY3w1VY0z8)
+
+- Add mongoose, body-parser, morgan, compression, helmet
+- Setup config folder
+- Setup constants
