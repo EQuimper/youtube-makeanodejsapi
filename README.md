@@ -49,3 +49,15 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Add mongoose, body-parser, morgan, compression, helmet
 - Setup config folder
 - Setup constants
+
+---
+
+### Part 3, Users creation
+
+#### Video
+
+[Link](https://youtu.be/i5yb_HRWbeg)
+
+- Create the user model, controller and routes
+- Install robomongo, postman
+- Add joi for validation with express-validation
