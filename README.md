@@ -74,3 +74,16 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Crypt the user password
 - Create the localStrategy with passport
 - Can log a user
+
+---
+
+### Part 5, Add passport-jwt and send less information about the user
+
+#### Video
+
+[Link](https://youtu.be/fVq3VFjASqY)
+
+- Create a secret password for the jwt
+- Add passport-jwt and create the strategy
+- Add jsonswebtoken library
+- How can I send less info to the front end ? Like I don't want to send the password
