@@ -61,3 +61,16 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Create the user model, controller and routes
 - Install robomongo, postman
 - Add joi for validation with express-validation
+
+---
+
+### Part 4, Add bcrypt and passport
+
+#### Video
+
+[Link](https://youtu.be/iBnLWrw3NpY)
+
+- Add rimraf and clean dist on webpack build
+- Crypt the user password
+- Create the localStrategy with passport
+- Can log a user
