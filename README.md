@@ -87,3 +87,15 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Add passport-jwt and create the strategy
 - Add jsonswebtoken library
 - How can I send less info to the front end ? Like I don't want to send the password
+
+---
+
+### Part 6, Creation of a post
+
+#### Video
+
+[Link](https://youtu.be/3zfPrFy9ZQY)
+
+- Create the post model
+- Add the user id as the author
+- Resolve error I did with joi
