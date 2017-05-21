@@ -99,3 +99,16 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Create the post model
 - Add the user id as the author
 - Resolve error I did with joi
+
+---
+
+### Part 7, Get a post by his id and get all of them
+
+#### Video
+
+[Link](https://youtu.be/jOtsq343AgM)
+
+- Create the controller, route
+- Add http-status library
+- Populate User
+- User toAuthJSON vs toJSON

@@ -13,5 +13,6 @@ routes.post(
   validate(postValidation.createPost),
   postController.createPost,
 );
+routes.get('/:id', postController.getPostById);
 
 export default routes;
