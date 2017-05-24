@@ -102,7 +102,7 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 
 ---
 
-### Part 7, Get a post by his id and get all of them
+### Part 7, Get a post by his id
 
 #### Video
 
@@ -112,3 +112,15 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Add http-status library
 - Populate User
 - User toAuthJSON vs toJSON
+
+---
+
+### Part 8, Get all posts with a list statics method
+
+#### Video
+
+[Link](https://youtu.be/PKkaVz6aMws)
+
+- Talk about the repos
+- Create the controller
+- Create a list statics method on post

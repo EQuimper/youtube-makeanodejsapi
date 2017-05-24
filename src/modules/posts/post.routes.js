@@ -14,5 +14,6 @@ routes.post(
   postController.createPost,
 );
 routes.get('/:id', postController.getPostById);
+routes.get('/', postController.getPostsList);
 
 export default routes;
