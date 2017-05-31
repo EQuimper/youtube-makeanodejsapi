@@ -124,3 +124,12 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Talk about the repos
 - Create the controller
 - Create a list statics method on post
+
+## Part 9, Update a post if author of it
+
+#### Video
+
+[Link](https://youtu.be/GUlbkmxhg_k)
+
+- Create the route and controller
+- Create a validation field
