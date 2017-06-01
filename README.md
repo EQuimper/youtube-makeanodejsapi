@@ -125,7 +125,7 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Create the controller
 - Create a list statics method on post
 
-## Part 9, Update a post if author of it
+### Part 9, Update a post if author of it
 
 #### Video
 
@@ -133,3 +133,13 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 
 - Create the route and controller
 - Create a validation field
+
+### Part 10, Delete a post if author of it
+
+#### Video
+
+[Link](https://youtu.be/0lrzX_nWvAA)
+
+- Create the route and controller
+- Show the authorization work
+- Add prettier and show the magic :)
