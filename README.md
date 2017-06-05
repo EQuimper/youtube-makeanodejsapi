@@ -125,6 +125,8 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Create the controller
 - Create a list statics method on post
 
+---
+
 ### Part 9, Update a post if author of it
 
 #### Video
@@ -133,6 +135,8 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 
 - Create the route and controller
 - Create a validation field
+
+---
 
 ### Part 10, Delete a post if author of it
 
@@ -143,3 +147,14 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 - Create the route and controller
 - Show the authorization work
 - Add prettier and show the magic :)
+
+---
+
+### Part 11, User can favorite a post if auth + increment the favoriteCount
+
+#### Video
+
+[Link](https://youtu.be/VeNWdciXVQ0)
+
+- Create model methods for both user and post
+- Add the increment/decrement statics on post
