@@ -13,8 +13,8 @@ routes.post(
   validate(postValidation.createPost),
   postController.createPost,
 );
-routes.get('/:id', postController.getPostById);
-routes.get('/', postController.getPostsList);
+routes.get('/:id', authJwt, postController.getPostById);
+routes.get('/', authJwt, postController.getPostsList);
 routes.patch(
   '/:id',
   authJwt,

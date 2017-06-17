@@ -158,3 +158,13 @@ I use the latest feature of javascript. ES6 + ES7, we compile with the help of b
 
 - Create model methods for both user and post
 - Add the increment/decrement statics on post
+
+### Part 12, Send if favorite or not with post for help the life of the front-end
+
+#### Video
+
+[Link](https://youtu.be/tuftcAdw8yc)
+
+- Make route auth
+- Make user method
+- Make post controller work with the favorite
